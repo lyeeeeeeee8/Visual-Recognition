@@ -1,1 +1,1 @@
-# lyeeeeeeee8-NYCU-Visual-Recognition-using-Deep-Learning-2025-Spring
+# NYCU-Visual-Recognition-using-Deep-Learning-2025-Spring
