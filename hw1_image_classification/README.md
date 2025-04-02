@@ -1,6 +1,7 @@
 
 # HW1: Image Classification
 <img src="assets/img.png" width="50%" />
+
 ## Links
 - [Link to the dataset](https://drive.google.com/file/d/1fx4Z6xl5b6r4UFkBrn5l0oPEIagZxQ5u/view?pli=1)
 - [Link to the competition](https://www.codabench.org/competitions/5901/?secret_key=b07a4812-f484-47c1-bd5e-304daba21d07)
