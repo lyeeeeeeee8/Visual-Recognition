@@ -1,6 +1,2 @@
-# NYCU 2025 Spring: Visual Recognition using Deep Learning 
+Visual Recognition
 
-### Course descriptions and objectives:
-Computer vision aims to empower computers with the ability to "see" – to perceive, understand, and interpret the visual world much like humans do. Deep learning has emerged as the driving force behind the current computer vision revolution. The availability of massive, annotated datasets, coupled with the accessibility of powerful GPUs, has enabled the training of complex deep learning models. These models, consisting of hundreds of layers and millions of parameters, have significantly advanced the performance of numerous computer vision applications.
-
-In this course, we will begin by exploring key deep learning architectures crucial for computer vision research. This will include a deep dive into foundational concepts such as deep neural networks, convolutional neural networks (CNNs), Transformers, generative adversarial networks (GANs), and denoising diffusion models. Subsequently, we will delve into several important computer vision applications, including object recognition, detection, segmentation, low-level vision, and 3D vision. For each application, we will examine the state-of-the-art deep learning algorithms that are driving progress in that area.
