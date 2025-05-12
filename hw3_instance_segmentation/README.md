@@ -1,6 +1,6 @@
 # HW3: Instance Segmentation of Histopathology Cells
 
-<img src="assets/img.png" width="50%" />
+<img src="assets/img.png" width="30%" />
 
 ## Links
 - [Link to the dataset](https://drive.google.com/file/d/1B0qWNzQZQmfQP7x7o4FDdgb9GvPDoFzI/view)
