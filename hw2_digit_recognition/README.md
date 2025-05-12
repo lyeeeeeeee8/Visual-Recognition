@@ -1,6 +1,6 @@
 
 # HW2: Digit Recognition
-<img src="assets/img.png" width="50%" />
+<img src="assets/img.png" width="40%" />
 
 ## Links
 - [Link to the dataset](https://drive.google.com/file/d/13JXJ_hIdcloC63sS-vF3wFQLsUP1sMz5/view)
@@ -65,4 +65,5 @@ python train.py
 python inference.py
 ```
 ## Performance Snapshot
-![Snapshot](assets/snap.png)
+![Snapshot](assets/snap1.png)
+![Snapshot](assets/snap2.png)
