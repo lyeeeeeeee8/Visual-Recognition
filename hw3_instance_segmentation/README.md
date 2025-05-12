@@ -94,4 +94,5 @@ python inference.py
 * Y. Wu *et al.*, **Detectron2** (2019) – [https://github.com/facebookresearch/detectron2](https://github.com/facebookresearch/detectron2)
 
 ## Performance Snapshot
-![Snapshot](assets/snap.png)
+![Snapshot](assets/snap1.png)
+![Snapshot](assets/snap2.png)
