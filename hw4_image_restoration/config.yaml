@@ -1,0 +1,17 @@
+seed: 42
+patch_size: 256
+batch_size: 2
+num_workers: 8
+max_epoch: 120
+
+optim:
+  lr: 2.0e-4
+  weight_decay: 1.0e-4
+
+loss:
+  l1: 1.0
+  ssim: 0.1
+
+early_stop: 15
+
+save_dir: runs/0528/
