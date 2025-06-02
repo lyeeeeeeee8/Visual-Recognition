@@ -1,6 +1,6 @@
 # HW4: PromptIR for Blind Image Restoration (Rain & Snow)
 
-<img src="assets/img.png" width="30%" />
+<img src="assets/img.png" width="100%" />
 
 ## Links
 - [Link to the dataset](https://drive.google.com/drive/folders/1Q4qLPMCKdjn-iGgXV_8wujDmvDpSI1ul)
@@ -96,8 +96,8 @@ python inference.py \
 
 ## 📈 Performance Snapshot
 
-<img src="assets/img1.png" width="30%" />
-<img src="assets/img2.png" width="30%" />
+<img src="assets/img1.png" width="100%" />
+<img src="assets/img2.png" width="100%" />
 
 ---
 
